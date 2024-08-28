@@ -1,5 +1,11 @@
-# gcc coverage testing tool files
-
-*.gcno
-*.gcda
-*.gcov
+.kmlab.*
+kmlab.mod
+kmlab.mod.c
+kmlab.mod.o
+kmlab.o
+Module.*
+modules.*
+.Module.*
+.modules.*
+kmlab.ko
+userapp
